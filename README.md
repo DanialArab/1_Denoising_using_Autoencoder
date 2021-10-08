@@ -6,7 +6,7 @@ Autoencoder is a deep learning architecture (Fig. 1) specifically applied for no
 
 
 
-In this project, the Street View House Numbers (SVHN)Dataset (http://ufldl.stanford.edu/housenumbers/) was used to generate the noisy images (Fig. 2). 
+In this project, the Street View House Numbers (SVHN) Dataset - format 2 (i.e., the cropped images) (http://ufldl.stanford.edu/housenumbers/) was used to generate the noisy images (Fig. 2). 
 
 ![image](https://user-images.githubusercontent.com/54812742/136598712-5abfc981-82ba-41e2-93f3-5ca2d68ec11a.png)
 
