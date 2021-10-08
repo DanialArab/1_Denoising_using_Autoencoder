@@ -10,9 +10,11 @@ In this project, the Street View House Numbers (SVHN) Dataset - format 2 (i.e., 
 
 ![image](https://user-images.githubusercontent.com/54812742/136598712-5abfc981-82ba-41e2-93f3-5ca2d68ec11a.png)
 
-Based on the noisy images and the corresponding clean images the model was trained. The trained model was used to 
+73257 RGB noisy images of size 32*32 along with their corresponding raw/clean images, i.e, the SVHN images with no processing, were used to train the model. The Sequential API was used, where ...
 
-Sequential model was used, where ...
+Then the random images from the noisy testing dataset, which is not seen by the model, were used to test the model performance. The generated results are shown in Fig. 3. As shown in Fig. 3, the noisy images were denoised/cleaned through autoencoder model.   
 
+References:
+https://www.youtube.com/watch?v=Sm54KXD-L1k
 
 
