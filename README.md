@@ -1,6 +1,6 @@
 # Denoising_using_Autoencoder
 Autoencoder is a deep learning architecture for noise reduction, anomaly detection, domain adaptation, image colorization, etc. 
-![image](https://user-images.githubusercontent.com/54812742/136596867-020d1231-32cd-4690-a4cc-217833f4ebd2.png)
+                                  ![image](https://user-images.githubusercontent.com/54812742/136596867-020d1231-32cd-4690-a4cc-217833f4ebd2.png)
 
 
 
