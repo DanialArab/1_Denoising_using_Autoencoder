@@ -16,5 +16,4 @@ Then the random images from the noisy testing dataset, which is not seen by the 
 
 References:
 https://www.youtube.com/watch?v=Sm54KXD-L1k
-
-
+Naseer, M., Khan, S., Porikli, F. (2018). Indoor scene understanding in 2.5/3d for autonomous agents: A survey. IEEE access, 7, 1859-1887.
