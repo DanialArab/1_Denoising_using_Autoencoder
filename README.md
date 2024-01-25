@@ -1,4 +1,4 @@
-# Denoising_using_Autoencoder
+# Denoising_using_Autoencoder 
 Autoencoder is a deep learning architecture (Fig. 1) specifically applied for noise reduction, anomaly detection, domain adaptation, image colorization, etc. [1]. Autoencoders are considered unsupervised learning algorithms. Nonetheless, they are more precisely categorized as self supervised algorithms since they create their own labels from the training dataset [2]. Autoencoders consist of three main components: encoder, latent representation, and decoder. The encoder compresses the input to produce latent representation, which is used in the decoder to reconstruct the input back to the original size of the input. 
 
 ![Fig  1](https://user-images.githubusercontent.com/54812742/136612646-44666780-5ab5-4b35-be2c-bd40b56531ee.PNG)
